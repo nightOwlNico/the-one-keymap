@@ -53,9 +53,9 @@ These scripts contain **per-app remappings**, so that `Ctrl+T`, `Ctrl+Q`, `Alt+T
 
 Each script should be run independently per platform:
 
-- **macOS**: `keymaps-of-power/mac-elven-keymap.karabiner.json` — load via Karabiner-Elements
+- **macOS**: `keymaps-of-power/macos-elven-keymap.karabiner.json` — load via Karabiner-Elements
 - **Windows**: `keymaps-of-power/windows-human-keymap.ahk` — launch with AutoHotKey
-- **Linux**: `keymaps-of-power/linux-dwarven-keymap.sh` — map with xbindkeys or custom shell
+- **Linux**: `keymaps-of-power/linux-dwarvish-keymap.sh` — map with xbindkeys or custom shell
 
 ---
 
