@@ -38,6 +38,13 @@ The One Keymap exists to **standardize your daily key commands** across systems 
 | **App Launcher**       | <kbd>Ctrl</kbd><kbd>Space</kbd> (example)                                                                                                  | Launches Raycast, Start Menu, or equivalent                           |
 | **Window Management**  | _Custom mappings_                                                                                                                          | Move, snap, fullscreen, etc., across all systems                      |
 
+These scripts contain **per‑app remappings**, so that familiar shortcuts like <kbd>Ctrl</kbd><kbd>T</kbd>, <kbd>Ctrl</kbd><kbd>Q</kbd>, and <kbd>Alt</kbd><kbd>Tab</kbd> perform the same actions in:
+
+- Chrome (Brave ⟶ Coming Soon…)
+- Visual Studio Code (Cursor ⟶ Coming Soon…)
+- WezTerm
+- OS‑level window & workspace management
+
 ---
 
 ## 🗺️ Realms
@@ -51,13 +58,6 @@ Each script corresponds to one of the three Great Races of Middle‑Earth:
 |  **Linux**  | ⛏️ **Dwarves** — resilient and stubborn    | `xbindkeys`, `xdotool`, or similar                         |
 
 Each script is a “Ring of Power,” but this repo is **The One Keymap** that unites them
-
-These scripts contain **per‑app remappings**, so that familiar shortcuts like <kbd>Ctrl</kbd><kbd>T</kbd>, <kbd>Ctrl</kbd><kbd>Q</kbd>, and <kbd>Alt</kbd><kbd>Tab</kbd> perform the same actions in:
-
-- Chrome (Brave ⟶ Coming Soon…)
-- Visual Studio Code (Cursor ⟶ Coming Soon…)
-- WezTerm
-- OS‑level window & workspace management
 
 ---
 
