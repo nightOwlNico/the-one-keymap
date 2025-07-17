@@ -1,4 +1,4 @@
-<h1 align="center">✨ The One Keymap ✨</h1>
+<h1 align="center">🔥 The One Keymap 🔥</h1>
 
 <p align="center"><em>One Keymap to rule them all,<br>
 One Keymap to find them,<br>
@@ -15,15 +15,15 @@ Forged in the fires of Mordor (or GitHub), this repo is the source of truth. The
 
 ## 📜 Table&nbsp;of&nbsp;Contents
 
-- [🎯 Purpose](#🎯-purpose)
-- [🗺️ Realms](#🗺️-realms)
-- [🛠️ Installation](#🛠️-installation)
-- [🧠 Philosophy](#🧠-philosophy)
-- [🧙 Attribution](#🧙-attribution)
+- [🎯 Purpose](#purpose)
+- [🗺️ Realms](#realms)
+- [🛠️ Installation](#installation)
+- [🧠 Philosophy](#philosophy)
+- [🧙 Attribution](#attribution)
 
 ---
 
-## 🎯 Purpose
+<h2 id="purpose">🎯 Purpose</h2>
 
 > _“Why should I suffer the fate of Alt&nbsp;vs.&nbsp;Ctrl&nbsp;vs.&nbsp;Cmd?”_
 
@@ -47,7 +47,7 @@ These scripts contain **per‑app remappings**, so that familiar shortcuts like 
 
 ---
 
-## 🗺️ Realms
+<h2 id="realms">🗺️ Realms</h2>
 
 Each script corresponds to one of the three Great Races of Middle‑Earth:
 
@@ -61,7 +61,7 @@ Each script is a “Ring of Power,” but this repo is **The One Keymap** that
 
 ---
 
-## 🛠️ Installation
+<h2 id="installation">🛠️ Installation</h2>
 
 Run the script that matches your platform:
 
@@ -73,7 +73,7 @@ Run the script that matches your platform:
 
 ---
 
-## 🧠 Philosophy
+<h2 id="philosophy">🧠 Philosophy</h2>
 
 > **Your hands already know what to do — so let them**
 
@@ -83,7 +83,7 @@ Run the script that matches your platform:
 
 ---
 
-## 🧙 Attribution
+<h2 id="attribution">🧙 Attribution</h2>
 
 Inspired by the works of **J.R.R. Tolkien**
 Crafted for cross‑platform warriors
