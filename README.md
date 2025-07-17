@@ -1,4 +1,4 @@
-<h1 align="center">🌋 The One Keymap 💍</h1>
+<h1 align="center">🔥🌋🔥 The One Keymap 🔥💍🔥</h1>
 
 <p align="center"><em>One Keymap to rule them all,<br>
 One Keymap to find them,<br>
@@ -53,7 +53,7 @@ Each script corresponds to one of the three Great Races of Middle‑Earth:
 
 |    Realm    | Script Theme                               | Remapping Engine                                           |
 | :---------: | :----------------------------------------- | :--------------------------------------------------------- |
-|  **macOS**  | 🧝 **Elves** — elegant, powerful, detached | [Karabiner‑Elements](https://karabiner-elements.pqrs.org/) |
+|  **macOS**  | 🧝‍♂️ **Elves** — elegant, powerful, detached | [Karabiner‑Elements](https://karabiner-elements.pqrs.org/) |
 | **Windows** | 👨‍👦 **Men** — noble but fallible            | [AutoHotKey](https://www.autohotkey.com/)                  |
 |  **Linux**  | ⛏️ **Dwarves** — resilient and stubborn    | `xbindkeys`, `xdotool`, or similar                         |
 
@@ -79,7 +79,7 @@ Run the script that matches your platform:
 
 - ✨ Never **relearn** a shortcut again
 - ⚔️ **Destroy** inconsistency
-- 🔥 **Bind** every platform to a single will
+- 👁️ **Bind** every platform to a single will
 
 ---
 
