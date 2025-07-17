@@ -1,15 +1,15 @@
-<h1 align="center">🔥 The One Keymap 🔥</h1>
+<h1 align="center">🌋 The One Keymap 💍</h1>
 
 <p align="center"><em>One Keymap to rule them all,<br>
 One Keymap to find them,<br>
 One Keymap to bring them all,<br>
-And in the <strong>cross‑platform darkness</strong>, bind them.</em></p>
+and in the <strong>cross‑platform darkness</strong>, bind them.</em></p>
 
 ---
 
-> **The One Keymap** is a unified keybinding system designed to preserve your muscle memory across **Operating Systems (Realms)** for macOS (Elves), Windows (Men), and Linux (Dwarves). Whether you're opening tabs in Chrome, switching windows in VS Code, or managing your terminal workflow in WezTerm, this keymap ensures the exact same keystrokes *Just Work*™ regardless of your operating system.
+> **The One Keymap** is a unified keybinding system designed to preserve your muscle memory across **Operating Systems (Realms)** for macOS (Elves), Windows (Men), and Linux (Dwarves). Whether you're opening tabs in Chrome, switching windows in VS Code, or managing your terminal workflow in WezTerm, this keymap ensures the exact same keystrokes _Just Work™_ regardless of your operating system.
 
-Forged in the fires of Mordor (or GitHub), this repo is the source of truth. The One Keymap rules all platforms, brings harmony to inconsistent shortcuts, and spares you from retraining your fingers with every OS switch.
+Forged in the land of Mordor, in the fires of Mount Doom (or GitHub), this repo is the source of truth. The One Keymap rules all platforms, brings harmony to inconsistent shortcuts, and spares you from retraining your fingers with every OS switch.
 
 ---
 
