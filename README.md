@@ -85,8 +85,8 @@ Run the script that matches your platform:
 
 <h2 id="attribution">🧙 Attribution</h2>
 
-Inspired by the works of **J.R.R. Tolkien**
-Crafted for cross‑platform warriors
+Inspired by the works of **J.R.R. Tolkien**<br>
+Crafted for cross‑platform warriors<br>
 Maintained by keyboard minimalists & shortcut maximalists
 
 ---
