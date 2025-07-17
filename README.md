@@ -15,11 +15,11 @@ Forged in the fires of Mordor (or GitHub), this repo is the source of truth. The
 
 ## 📜 Table&nbsp;of&nbsp;Contents
 
-- [🎯 Purpose](#purpose)
-- [🗺️ Realms](#realms)
-- [🛠️ Installation](#installation)
-- [🧠 Philosophy](#philosophy)
-- [🧙 Attribution](#attribution)
+- [🎯 Purpose](#-purpose)
+- [🗺️ Realms](#-realms)
+- [🛠️ Installation](#-installation)
+- [🧠 Philosophy](#-philosophy)
+- [🧙 Attribution](#-attribution)
 
 ---
 
