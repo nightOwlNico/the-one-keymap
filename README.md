@@ -63,13 +63,61 @@ Each script is a “Ring of Power,” but this repo is **The One Keymap** that
 
 <h2 id="installation">🛠️ Installation</h2>
 
-Run the script that matches your platform:
+Choose your realm and follow the corresponding installation instructions:
 
-|  Platform   | File                                                 | How to Use                              |
-| :---------: | :--------------------------------------------------- | :-------------------------------------- |
-|  **macOS**  | `keymaps-of-power/macos-elven-keymap.karabiner.json` | Import in **Karabiner‑Elements** →      |
-| **Windows** | `keymaps-of-power/windows-human-keymap.ahk`          | Run with **AutoHotKey** →               |
-|  **Linux**  | `keymaps-of-power/linux-dwarvish-keymap.sh`          | Map with **xbindkeys** / custom shell → |
+### 🧝‍♂️ macOS (Elves)
+
+**Prerequisites:** Install [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
+
+**Installation (Version Control Integration)**
+According to this [Karabiner-Elements documentation](https://karabiner-elements.pqrs.org/docs/manual/misc/configuration-file-path/), you can manage your configuration under version control by using a symbolic link. This method ensures that **all** files in this repo's `karabiner/` folder (including assets, complex modifications, and the main JSON) are properly linked:
+
+```bash
+# 1. Remove the default configuration folder
+rm -rf ~/.config/karabiner
+
+# 2. Create symbolic link to this repo's karabiner folder
+# Replace ~/dev/the-one-keymap with your actual repo location
+ln -s ~/dev/the-one-keymap/keymaps-of-power/macos-elven-keymap/karabiner ~/.config
+
+# 3. Restart Karabiner-Elements app completely
+# (Close and reopen the app)
+```
+
+**Important Notes:**
+
+- ⚠️ **Never symlink the `karabiner.json` file directly** - only symlink the `karabiner` directory
+- 🔄 After symlinking, you may need to restart Karabiner-Elements for changes to take effect
+- 🔐 Karabiner-Elements may request additional permissions during setup - ensure all permission dialogs are completed
+
+### 👨‍👦 Windows (Men)
+
+**Prerequisites:** Install [AutoHotkey](https://www.autohotkey.com/)
+
+1. Download `keymaps-of-power/windows-human-keymap.ahk`
+2. Right-click the file → **Run Script**
+3. The script will run in the background (check system tray for AutoHotkey icon)
+
+**Note:** For persistent startup, place the `.ahk` file in your Windows Startup folder.
+
+### ⛏️ Linux (Dwarves)
+
+**Prerequisites:** Install `xbindkeys` and `xdotool`
+
+```bash
+# Ubuntu/Debian
+sudo apt install xbindkeys xdotool
+
+# Arch
+sudo pacman -S xbindkeys xdotool
+
+# Fedora
+sudo dnf install xbindkeys xdotool
+```
+
+1. Copy `keymaps-of-power/linux-dwarvish-keymap.sh` to your home directory
+2. Make it executable: `chmod +x ~/linux-dwarvish-keymap.sh`
+3. Add to your startup applications or run manually
 
 ---
 
