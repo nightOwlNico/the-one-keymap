@@ -94,11 +94,33 @@ ln -s ~/dev/the-one-keymap/keymaps-of-power/macos-elven-keymap/karabiner ~/.conf
 
 **Prerequisites:** Install [AutoHotkey](https://www.autohotkey.com/)
 
-1. Download `keymaps-of-power/windows-human-keymap.ahk`
-2. Right-click the file → **Run Script**
-3. The script will run in the background (check system tray for AutoHotkey icon)
+**Installation (Auto-start on Boot)**
 
-**Note:** For persistent startup, place the `.ahk` file in your Windows Startup folder.
+According to this [AutoHotkey documentation](https://www.autohotkey.com/docs/v2/FAQ.htm#Startup), you can make your script run automatically every time you start your computer by placing a shortcut in the Startup folder. This method ensures that **all** your keybindings and remappings are automatically loaded and active from the moment Windows boots:
+
+1. **Copy the script file:**
+
+   - Navigate to `keymaps-of-power/windows-human-keymap/`
+   - Select `autohotkey.ahk` and press `Ctrl + C` to copy it
+   - Alternatively, right-click `autohotkey.ahk` and select **Copy**
+
+2. **Place the shortcut in the Startup folder:**
+
+   - Press `Win + R` to open the Run dialog
+   - Type `shell:startup` and press Enter
+   - A Startup folder will open for the current user
+   - **Important:** Right-click inside the Startup folder → **Show more options** → **Paste shortcut**
+   - ⚠️ **Do NOT use regular "Paste"** - you must use "Paste shortcut" specifically
+
+3. **Complete the installation:**
+   - Once the `autohotkey.ahk` shortcut appears in the Startup folder, you can close that folder
+   - **Restart your computer** - the script will NOT be running until you restart
+   - After restart, you should see the green "H" AutoHotkey icon in the bottom taskbar notification area (commonly known as the system tray)
+
+**Important Notes:**
+
+- 🔄 **Reloading after changes:** If you make any changes to `autohotkey.ahk`, they will NOT automatically take effect. You need to right-click the green "H" AutoHotkey icon in the system tray and select **"Reload Script"** for changes to become active
+- 🔄 **Automatic updates on restart:** Any changes saved to `autohotkey.ahk` will automatically load and run after the next restart, regardless of whether you manually reloaded the script
 
 ### ⛏️ Linux (Dwarves)
 
